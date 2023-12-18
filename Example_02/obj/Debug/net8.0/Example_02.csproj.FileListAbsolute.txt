@@ -1,0 +1,14 @@
+C:\Users\MkaGodh\Desktop\Обучение\ДЗ\18.12.23\HW_04\Example_02\bin\Debug\net8.0\Example_02.exe
+C:\Users\MkaGodh\Desktop\Обучение\ДЗ\18.12.23\HW_04\Example_02\bin\Debug\net8.0\Example_02.deps.json
+C:\Users\MkaGodh\Desktop\Обучение\ДЗ\18.12.23\HW_04\Example_02\bin\Debug\net8.0\Example_02.runtimeconfig.json
+C:\Users\MkaGodh\Desktop\Обучение\ДЗ\18.12.23\HW_04\Example_02\bin\Debug\net8.0\Example_02.dll
+C:\Users\MkaGodh\Desktop\Обучение\ДЗ\18.12.23\HW_04\Example_02\bin\Debug\net8.0\Example_02.pdb
+C:\Users\MkaGodh\Desktop\Обучение\ДЗ\18.12.23\HW_04\Example_02\obj\Debug\net8.0\Example_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MkaGodh\Desktop\Обучение\ДЗ\18.12.23\HW_04\Example_02\obj\Debug\net8.0\Example_02.AssemblyInfoInputs.cache
+C:\Users\MkaGodh\Desktop\Обучение\ДЗ\18.12.23\HW_04\Example_02\obj\Debug\net8.0\Example_02.AssemblyInfo.cs
+C:\Users\MkaGodh\Desktop\Обучение\ДЗ\18.12.23\HW_04\Example_02\obj\Debug\net8.0\Example_02.csproj.CoreCompileInputs.cache
+C:\Users\MkaGodh\Desktop\Обучение\ДЗ\18.12.23\HW_04\Example_02\obj\Debug\net8.0\Example_02.dll
+C:\Users\MkaGodh\Desktop\Обучение\ДЗ\18.12.23\HW_04\Example_02\obj\Debug\net8.0\refint\Example_02.dll
+C:\Users\MkaGodh\Desktop\Обучение\ДЗ\18.12.23\HW_04\Example_02\obj\Debug\net8.0\Example_02.pdb
+C:\Users\MkaGodh\Desktop\Обучение\ДЗ\18.12.23\HW_04\Example_02\obj\Debug\net8.0\Example_02.genruntimeconfig.cache
+C:\Users\MkaGodh\Desktop\Обучение\ДЗ\18.12.23\HW_04\Example_02\obj\Debug\net8.0\ref\Example_02.dll
